@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+}
+.block1 {
+    width: 32%;
+    height: 200px;
+    background-color:grey;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+   
+}
+.block2 {
+    width: 32%;
+    height: 200px;
+    background-color: grey;
+    float: left;
+    position: relative;
+}
+.block3 {
+    width: 32%;
+    height: 200px;
+    background-color: grey;
+    float: right;
+    position: relative;
+    right: 20px;
+}
+h4 {
+    text-indent: 18px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.sample1 {
+    width: 120px;
+    height: 30px;
+    background-color: pink;
+    position: absolute;
+    right: 0px;
+    text-align: center;
+    font-size: bold;
+}
+.sample2 {
+    width: 120px;
+    height: 30px;
+    background-color: brown;
+    position: absolute;
+    right: 0px ;
+    text-align: center;
+    font-size: bold;
+}
+.sample3 {
+    width: 120px;
+    height: 30px;
+    background-color: yellow;
+    position: absolute;
+    right: 0px;
+    text-align: center;
+    font-size: bold;
+}
